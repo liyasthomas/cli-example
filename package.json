@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hoppscotch CLI example",
   "scripts": {
-    "test": "hopp test collections.json"
+    "test-apis": "hopp test collections.json"
   },
   "repository": {
     "type": "git",
