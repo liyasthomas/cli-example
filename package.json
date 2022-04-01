@@ -1,0 +1,21 @@
+{
+  "name": "cli-example",
+  "version": "1.0.0",
+  "description": "Hoppscotch CLI example",
+  "scripts": {
+    "test": "hopp test collections.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyasthomas/cli-example.git"
+  },
+  "author": "Hoppscotch (support@hoppscotch.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liyasthomas/cli-example/issues"
+  },
+  "homepage": "https://github.com/liyasthomas/cli-example#readme",
+  "dependencies": {
+    "@hoppscotch/cli": "^0.1.11"
+  }
+}
